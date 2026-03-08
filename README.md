@@ -150,10 +150,9 @@ Verify it is running:
 ```powershell
 & "$env:APPDATA\Python\Python312\Scripts\frida-ps.exe" -U | Select-String "Steam"
 ```
+### 3B.4 Download the Decryption Script
 
-### 3B.4 Create the Decryption Script
-
-Download [steam_decrypt.js](https://raw.githubusercontent.com/hairyfred/steam-guard-keystore-extract/main/steam_decrypt.js) and save it to your Downloads folder.
+Download [steam_decrypt.js](https://raw.githubusercontent.com/hairyfred/steam-guard-keystore-extract/main/steam_decrypt.js) and save it anywhere on your PC. The examples below assume your Downloads folder — update the path in the command if you save it elsewhere.
 
 ### 3B.5 Run the Decryption Script
 
