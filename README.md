@@ -20,7 +20,7 @@ A complete guide to extracting your Steam Guard shared secret from a rooted Andr
 - A Windows PC
 - USB cable
 - Python 3 installed on your PC
-- Bitwarden Premium (required for TOTP code generation)
+- Bitwarden Premium (required for TOTP code generation) or the Bitwarden Authenticator App
 
 ---
 
